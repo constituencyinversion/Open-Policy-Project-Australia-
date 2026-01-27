@@ -210,111 +210,6 @@ See: [openpolicyaustralia/legislation](https://github.com/openpolicyaustralia/le
 - Completely transparent (no black boxes)
 - Zero cost forever
 
----
-
-## How to Deploy This Site
-
-### Quick Start (5 minutes):
-
-1. **Create GitHub account** at [github.com](https://github.com)
-
-2. **Create new repository:**
-   - Name: `openpolicyaustralia.github.io` OR `open-policy-australia`
-   - Public (required for free hosting)
-   - Don't add README
-
-3. **Upload files:**
-   - Drag all files from this folder
-   - Commit changes
-
-4. **Enable GitHub Pages:**
-   - Settings → Pages
-   - Source: Deploy from branch
-   - Branch: main
-   - Folder: / (root)
-   - Save
-
-5. **Wait 2-5 minutes**
-
-6. **Site is live!**
-
-**Detailed instructions:** See deployment guide below.
-
----
-
-## Adding Your Hero Image
-
-The site is configured to use `hero-image.jpg` as the background.
-
-**To add your image:**
-
-1. Name your image file: `hero-image.jpg`
-2. Upload it to the repository root (same folder as index.html)
-3. Commit the change
-4. Site will auto-update in 1-2 minutes
-
-**Image specifications:**
-- Format: JPG, PNG, or WebP
-- Recommended size: 1920x1080px or larger
-- File size: Under 500KB for fast loading
-
----
-
-## Setting Up GitHub Discussions
-
-**After deploying the site:**
-
-### Step 1: Create Legislation Repository
-
-1. Create new repository: `openpolicyaustralia/legislation`
-2. Make it Public
-3. Add README explaining the repo
-
-### Step 2: Enable Discussions
-
-1. Go to repository Settings
-2. Scroll to Features section
-3. Check ✅ "Discussions"
-
-### Step 3: Create Discussion Categories
-
-Create these categories:
-
-**📋 Bill Review** - Discuss specific bills  
-**💡 Proposals** - Suggest new legislation  
-**❓ Q&A** - Ask questions  
-**💬 General** - General discussion  
-
-### Step 4: Create Discussion for Each Bill
-
-1. Go to Discussions tab
-2. Click "New discussion"
-3. Category: Bill Review
-4. Title: "Australian Agricultural Sovereignty Act - Discussion"
-5. Body: Link to full bill, invite feedback
-6. Post
-
-Repeat for each bill.
-
-### Step 5: Update Website Links
-
-In `index.html`, update these links to point to your actual discussions:
-```html
-https://github.com/openpolicyaustralia/legislation/discussions/1
-https://github.com/openpolicyaustralia/legislation/discussions/2
-https://github.com/openpolicyaustralia/legislation/discussions/3
-```
-
----
-
-## Maintenance
-
-This site requires almost zero maintenance:
-
-- No databases
-- No servers
-- No security patches
-- No hosting bills
 
 **To update:**
 1. Edit files in GitHub
@@ -333,7 +228,7 @@ This site requires almost zero maintenance:
 
 ## License
 
-**Code:** MIT License - Free to use, modify, distribute  
+**Code:** MIT - Free to use, modify, distribute  
 **Legislation:** Public Domain - No copyright, completely free  
 **Concept:** Open source - Use however helps democracy
 
