@@ -1,0 +1,63 @@
+# HERO IMAGE INSTRUCTIONS
+
+## Your Hero Image
+
+The site is configured to display your "Open Policy Project Australia" image as the hero background.
+
+## To Add Your Image:
+
+1. **Rename your image file to:** `hero-image.jpg`
+   - Can also be: `hero-image.png` or `hero-image.webp`
+   - Just update the filename in style.css if using different format
+
+2. **Upload to repository root** (same folder as index.html)
+
+3. **Commit the change**
+
+4. **Site will auto-update in 1-2 minutes**
+
+## Image Specifications:
+
+- **Format:** JPG (recommended), PNG, or WebP
+- **Recommended size:** 1920x1080px or larger
+- **Aspect ratio:** 16:9 or wider
+- **File size:** Keep under 500KB for fast loading
+- **Content:** Your Australia map with network connections image works perfectly
+
+## Current Configuration:
+
+The CSS is set to:
+```css
+background-image: url('hero-image.jpg');
+background-size: cover;
+background-position: center;
+```
+
+With a blue gradient overlay for text readability.
+
+## If Image Doesn't Display:
+
+1. Check filename matches exactly: `hero-image.jpg`
+2. Check file is in root directory (not in /bills folder)
+3. Hard refresh browser: Ctrl+Shift+R (Windows) or Cmd+Shift+R (Mac)
+4. Wait 2-3 minutes for GitHub Pages to rebuild
+
+## Optional: Use Different Filename
+
+If you want to keep your original filename:
+
+1. In `style.css`, find line 58:
+   ```css
+   background-image: url('hero-image.jpg');
+   ```
+
+2. Change to your filename:
+   ```css
+   background-image: url('unnamed2.jpg');
+   ```
+
+3. Commit both the image and the CSS change
+
+---
+
+Your image with the Australia map and "OPEN POLICY PROJECT AUSTRALIA" text will look great as the hero background!
