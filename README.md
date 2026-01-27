@@ -376,8 +376,4 @@ A: Neither. We solve structural problems, not advance ideologies.
 
 ---
 
-**Status: Ready to deploy**
 
-This is complete, working infrastructure for democratic policy development in Australia.
-
-Launch it. Share it. Build on it.
