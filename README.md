@@ -4,7 +4,7 @@
 
 Open-source legislation drafted through public collaboration. Zero institutional capture. Complete transparency.
 
-**Live Site:** https://openpolicyaustralia.github.io *(once deployed)*
+**Live Site:** https://constituencyinversion.github.io/Open-Policy-Project-Australia-/
 
 ---
 
@@ -30,7 +30,7 @@ Instead of policy flowing from lobby groups → politicians → public, it flows
 - Mandatory transparency labelling
 - Farmer resilience framework
 
-[Read Full Bill](bills/agricultural-sovereignty.html) | [Discuss & Comment](https://github.com/openpolicyaustralia/legislation/discussions/1)
+[Read Full Bill](bills/agricultural-sovereignty.html) | [Discuss & Comment](https://github.com/constituencyinversion/legislation/discussions/1)
 
 ---
 
@@ -44,7 +44,7 @@ Instead of policy flowing from lobby groups → politicians → public, it flows
 - Real-time donation disclosure required
 - 50-80% cost reduction vs current system
 
-[Read Full Bill](bills/democracy-vouchers.html) | [Discuss & Comment](https://github.com/openpolicyaustralia/legislation/discussions/2)
+[Read Full Bill](bills/democracy-vouchers.html) | [Discuss & Comment](https://github.com/constituencyinversion/legislation/discussions/2)
 
 ---
 
@@ -58,7 +58,7 @@ Instead of policy flowing from lobby groups → politicians → public, it flows
 - AEC oversight and audit powers
 - Protects trade secrets (no source code disclosure required)
 
-[Read Full Bill](bills/algorithmic-transparency.html) | [Discuss & Comment](https://github.com/openpolicyaustralia/legislation/discussions/3)
+[Read Full Bill](bills/algorithmic-transparency.html) | [Discuss & Comment](https://github.com/constituencyinversion/legislation/discussions/3)
 
 ---
 
@@ -111,7 +111,7 @@ Use emoji reactions to signal support or concern:
 
 ### Option 2: Propose Detailed Changes
 
-1. Go to the [legislation repository](https://github.com/openpolicyaustralia/legislation)
+1. Go to the [legislation repository](https://github.com/constituencyinversion/legislation)
 2. Find the bill file (markdown format)
 3. Click "Edit" (pencil icon)
 4. Make your changes
