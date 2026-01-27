@@ -4,8 +4,8 @@
 
 Open-source legislation drafted through public collaboration. Zero institutional capture. Complete transparency.
 
-**Live Site:** https://constituencyinversion/Open-Policy-Project-Australia-.github.io
-
+**Live Site:** 
+https://constituencyinversion.github.io/Open-Policy-Project-Australia-/
 ---
 
 ## What This Is
