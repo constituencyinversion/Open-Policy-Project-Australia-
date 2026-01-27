@@ -125,7 +125,7 @@ Use emoji reactions to signal support or concern:
 
 1. Identify a structural problem
 2. Draft a solution using our template
-3. Submit to: [legislation repository](https://github.com/openpolicyaustralia/legislation)
+3. Submit to: [legislation repository](https://github.com/constituencyinversion/legislation)
 4. Community reviews and improves it
 
 [Full Contribution Guide](contribute.html)
@@ -192,7 +192,7 @@ open-policy-australia/
 ```
 
 **For legislation text and collaboration:**  
-See: [openpolicyaustralia/legislation](https://github.com/openpolicyaustralia/legislation)
+See: [openpolicyaustralia/legislation](https://github.com/constituencyinversion/legislation)
 
 ---
 
@@ -220,9 +220,9 @@ See: [openpolicyaustralia/legislation](https://github.com/openpolicyaustralia/le
 
 ## Contact & Contributing
 
-- **Website:** https://openpolicyaustralia.github.io
-- **GitHub:** https://github.com/openpolicyaustralia
-- **Discussions:** https://github.com/openpolicyaustralia/legislation/discussions
+- **Website:** https://constituencyinversion.github.io/Open-Policy-Project-Australia-/
+- **GitHub:** https://github.com/constituencyinversion
+- **Discussions:** https://github.com/constituencyinversion/legislation/discussions
 
 ---
 
