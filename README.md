@@ -60,6 +60,33 @@ Instead of policy flowing from lobby groups → politicians → public, it flows
 
 [Read Full Bill](bills/algorithmic-transparency.html) | [Discuss & Comment](https://github.com/constituencyinversion/Open-Policy-Project-Australia-/legislation/discussions/3)
 
+## 🏛️ Immigration Capacity, Integrity and Civic Alignment Act
+**Status:** Open for review - Available to all political parties  
+**Purpose:** Data-driven immigration framework aligned with national capacity
+
+**Key Innovation:**
+Ties immigration intake to measurable capacity constraints:
+- Housing supply (net increase in habitable stock)
+- Healthcare capacity (hospital beds, emergency departments)
+- Infrastructure utilization (water, energy, transport)
+- Essential service workforce availability
+
+**Framework Features:**
+- Mandatory capacity assessment before annual intake determination
+- Infrastructure stress triggers (automatic reduction when exceeded)
+- Economic alignment (productivity prioritization, prohibition on skills substitution)
+- Civic obligations (universal, including secular governance acceptance)
+- Electoral neutrality (prevents citizenship timing manipulation)
+- Transparent reporting and independent audit
+
+**Constitutional Basis:** S51(xix) Naturalization and aliens, S51(xxvii) Immigration
+
+**Availability:**
+- Public domain - any party or politician may use, modify, or build upon
+- Non-partisan framework applicable regardless of political affiliation
+- Designed for evidence-based policy development
+
+[Read Full Bill](bills/immigration-capacity-bill.html) | [Discuss](https://github.com/constituencyinversion/Open-Policy-Project-Australia-/discussions)
 ---
 
 ## How Comments and Reactions Work
