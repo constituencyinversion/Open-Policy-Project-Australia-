@@ -64,6 +64,79 @@ Instead of policy flowing from lobby groups → politicians → public, it flows
 **Status:** Open for review - Available to all political parties  
 **Purpose:** Data-driven immigration framework aligned with national capacity
 
+```markdown
+### ⛏️ Public Mining and Gas for National Wealth and Fiscal Sovereignty Act
+**Status:** White paper and framework - Open for expert review  
+**Purpose:** Public ownership + competitive private tendering + sovereign wealth fund
+
+**The Core Innovation:**
+Rejects the false choice between full privatization (private profit extraction) and full nationalization (state monopoly inefficiency).
+
+**Framework Model:**
+- **Public Ownership:** State retains ownership of strategic minerals and gas reserves (assets remain national)
+- **Competitive Tendering:** Private firms bid competitively for time-limited extraction contracts (market efficiency preserved)
+- **Market-Based Pricing:** Resources sold at competitive market prices (no state monopoly distortion)
+- **Revenue Allocation:** 
+  - Public Spending Fund: 40-50% (infrastructure, healthcare, education)
+  - Sovereign Wealth Fund: 40-50% (intergenerational wealth, Norway model)
+  - Regional Development: 5-10% (extraction-affected communities)
+
+**Key Components:**
+
+**1. Competitive Private Operations:**
+- Multiple firms bid for extraction rights via transparent tender
+- Time-limited contracts (e.g., 10-20 years) with periodic re-tendering
+- Private sector innovation and efficiency preserved
+- No government monopoly on operations
+
+**2. Sovereign Wealth Fund (Norway Model):**
+- Converts finite resources into permanent financial wealth
+- Globally diversified investments (prevents Dutch Disease)
+- Long-term returns (30+ year horizon)
+- Counter-cyclical buffer (smooths commodity price volatility)
+- Withdrawal rules protect principal for future generations
+
+**3. Complete Transparency:**
+- Real-time public dashboard (all contracts, bids, revenue flows)
+- Independent third-party audits
+- Environmental compliance data published
+- Fund performance reported quarterly
+- Annual public accountability hearings
+
+**4. Resource Curse Prevention:**
+- Sterilization mechanism (fixed % to SWF prevents inflation)
+- Global diversification (reduces domestic over-reliance)
+- Competitive operations (prevents monopoly capture)
+- Transparent governance (prevents corruption)
+
+**Constitutional Basis:**
+- S51(xx): Corporations power (regulation of resource companies)
+- S51(i): Trade and commerce (export regulation, competitive processes)
+- S61: Executive power (asset ownership, SWF management)
+- State cooperation framework (minerals primarily state jurisdiction)
+
+**International Precedents:**
+- **Norway:** $1.4 trillion Government Pension Fund from North Sea oil/gas
+- **Alaska:** Permanent Fund pays annual dividend to citizens from oil revenue
+- **Botswana:** Diamond revenue transparency avoided resource curse
+- **UAE/Qatar:** State ownership + sovereign wealth funds achieved fiscal independence
+
+**Implementation Strategy:**
+- **Pilot Phase:** Critical minerals (lithium, cobalt, rare earths) pathfinder project
+- **Timeline:** 2-3 years to operational proof-of-concept
+- **Scaling:** Expand to natural gas, then additional strategic minerals
+- **Data-Driven:** Track efficiency, revenue, environmental impact, fund growth
+
+**Economic Impact:**
+- Fiscal sovereignty (reduces reliance on immigration-driven GDP growth)
+- Permanent wealth creation (SWF grows over generations)
+- Market efficiency maintained (competitive private operations)
+- Regional development funding (extraction communities benefit directly)
+
+[Read Full Framework](bills/public-mining-gas-bill.html) | [Join Discussion](https://github.com/constituencyinversion/Open-Policy-Project-Australia-/discussions)
+
+---
+
 **Key Innovation:**
 Ties immigration intake to measurable capacity constraints:
 - Housing supply (net increase in habitable stock)
