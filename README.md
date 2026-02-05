@@ -162,6 +162,31 @@ Ties immigration intake to measurable capacity constraints:
 [Read Full Bill](bills/immigration-capacity-bill.html) | [Discuss](https://github.com/constituencyinversion/Open-Policy-Project-Australia-/discussions)
 ---
 
+### Labour-First Tax System (Untaxing Subsistence Labour) Act 2025
+
+**Status:** Draft Bill  
+**Author:** Nicholas D'Zilva
+
+Ensures subsistence labour is untaxed while promoting fiscal integrity and fairness. Raises the tax-free threshold to full-time minimum wage (automatically indexed) and recovers revenue through enhanced transparency measures targeting discretionary trusts, multinational profit shifting, and passive income above subsistence levels.
+
+**Key Provisions:**
+- Tax-free threshold raised to full-time minimum wage with automatic indexation
+- Mandatory beneficial ownership transparency for discretionary trusts
+- Strengthened multinational profit attribution based on economic substance
+- Remove preferential treatment for passive income above subsistence levels
+- Fiscal neutrality maintained through targeted integrity measures (~$40-60B/year revenue recovery)
+- Independent Fiscal Integrity Body for ongoing oversight
+- Two-year phased implementation with stakeholder education
+
+**Core Objects:**
+- Protect subsistence workers from taxation
+- Shift tax burden from labour to ownership, rent-seeking, and financial complexity
+- Increase transparency in trust and corporate structures
+- Maintain revenue neutrality without increasing GST or government debt
+
+**Read:** [Full Bill](bills/labour-first-tax-system.html) | [Discussion](https://github.com/constituencyinversion/Open-Policy-Project-Australia-/discussions)
+
+---
 ## How Comments and Reactions Work
 
 ### GitHub Discussions = Public Comment System
